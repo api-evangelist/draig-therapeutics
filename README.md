@@ -64,6 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Draig Therapeutics is a company surfaced as a portfolio company of canaan-partners and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Draig Therapeutics is a clinical-stage biopharmaceutical company developing transformative, best-in-class therapies for major neuropsychiatric disorders, including Major Depressive Disorder. A Cardiff University spinout co-founded with SV Health Investors, Draig ("dragon" in Welsh) leverages its founders' expertise in modulating the core glutamate/GABA pathways that underlie synaptic excitation and inhibition imbalance in the brain. Its pipeline is led by DT-101, a next-generation AMPA receptor positive allosteric modulator (PAM) advancing toward Phase 2 in MDD, alongside DT-201 and DT-301, subtype-selective GABAA receptor modulators. The company launched from stealth in June 2025 with a $140 million (£107 million) oversubscribed Series A led by Access Biotechnology, with participation from Canaan Partners, SR One, Sanofi Ventures, Schroders Capital, SV Health Investors, and ICG. Added to the API Evangelist network as a portfolio company of Canaan Partners.
 
-Backed by: canaan-partners
+**Areas:** Company · Biotechnology · Pharmaceuticals · Therapeutics · Neuroscience · Neuropsychiatry · Drug Discovery · Clinical Stage · CNS
+
+## Draig Therapeutics on APIs.io
+
+Everything profiled for Draig Therapeutics is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/draig-therapeutics/](https://apis.io/providers/draig-therapeutics/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Draig Therapeutics Domain Security](https://apis.io/security/draig-therapeutics/draig-therapeutics-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://draigtherapeutics.com/)
+- [Support](https://draigtherapeutics.com/contact/)
+- [Privacy policy](https://draigtherapeutics.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 7.2** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.8** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/draig-therapeutics/](https://apis.io/providers/draig-therapeutics/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Draig Therapeutics: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/draig-therapeutics/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
